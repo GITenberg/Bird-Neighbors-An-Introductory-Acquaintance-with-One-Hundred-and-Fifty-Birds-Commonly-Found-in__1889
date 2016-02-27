@@ -1,0 +1,36 @@
+_repo: Bird-Neighbors-An-Introductory-Acquaintance-with-One-Hundred-and-Fifty-Birds-Commonly-Found-in__1889
+contributor:
+  author_of_introduction:
+    agent_name: Burroughs, John
+    birthdate: 1837
+    deathdate: 1921
+    gutenberg_agent_id: '1127'
+    url: http://www.gutenberg.org/2009/agents/1127
+    wikipedia: http://en.wikipedia.org/wiki/John_Burroughs
+creator:
+  author:
+    agent_name: Blanchan, Neltje
+    aliases:
+    - Blanchon, Neltje
+    - Doubleday, Nellie Blanchan De Graff
+    birthdate: 1865
+    deathdate: 1918
+    gutenberg_agent_id: '738'
+    url: http://www.gutenberg.org/2009/agents/738
+    wikipedia: http://en.wikipedia.org/wiki/Neltje_Blanchan
+description: ''
+gutenberg_bookshelf: Animals-Wild-Birds
+gutenberg_issued: '1999-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1889'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Birds'
+title: "Bird Neighbors\r\nAn Introductory Acquaintance with One Hundred and Fifty\
+  \ Birds Commonly Found in the Gardens, Meadows, and Woods About Our Homes"
+url: http://www.gutenberg.org/ebooks/1889

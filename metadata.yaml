@@ -1,5 +1,5 @@
 _repo: Bird-Neighbors-An-Introductory-Acquaintance-with-One-Hundred-and-Fifty-Birds-Commonly-Found-in__1889
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Burroughs, John
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '1127'
     url: http://www.gutenberg.org/2009/agents/1127
     wikipedia: http://en.wikipedia.org/wiki/John_Burroughs
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Blanchan, Neltje
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/738
     wikipedia: http://en.wikipedia.org/wiki/Neltje_Blanchan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1889#Bird-Neighbors-An-Introductory-Acquaintance-with-One-Hundred-and-Fifty-Birds-Commonly-Found-in_
 gutenberg_bookshelf: Animals-Wild-Birds
 gutenberg_issued: '1999-09-01'
 gutenberg_type: Text

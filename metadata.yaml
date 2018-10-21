@@ -1,5 +1,5 @@
 _repo: Bird-Neighbors-An-Introductory-Acquaintance-with-One-Hundred-and-Fifty-Birds-Commonly-Found-in__1889
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   author_of_introduction:
     agent_name: Burroughs, John
@@ -37,6 +37,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'QL'
 - !lcsh 'Birds'
+- GITenberg
 title: "Bird Neighbors\r\nAn Introductory Acquaintance with One Hundred and Fifty\
   \ Birds Commonly Found in the Gardens, Meadows, and Woods About Our Homes"
 url: http://www.gutenberg.org/ebooks/1889
